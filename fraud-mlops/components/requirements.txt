@@ -1,4 +1,7 @@
 kagglehub==0.3.13
 pandas==2.3.3
-numpy==2.4.0
 pyarrow==22.0.0
+scikit-learn==1.8.0
+joblib==1.5.3
+numpy==2.4.0
+torch==2.9.1
