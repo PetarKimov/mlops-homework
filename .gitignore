@@ -1,2 +1,3 @@
-local/cc-fraud-local
+local-script/cc-fraud-local
 artifacts
+fraud-mlops/components/fraud-mlops-venv

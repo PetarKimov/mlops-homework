@@ -1,0 +1,4 @@
+kagglehub==0.3.13
+pandas==2.3.3
+numpy==2.4.0
+pyarrow==22.0.0
