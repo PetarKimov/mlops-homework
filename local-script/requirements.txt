@@ -1,0 +1,5 @@
+torch==2.9.1
+kagglehub==0.3.13
+pandas==2.3.3
+numpy==2.4.0
+scikit-learn==1.8.0

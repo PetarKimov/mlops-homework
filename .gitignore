@@ -1,3 +1,6 @@
 local-script/cc-fraud-local
 artifacts
 fraud-mlops/components/fraud-mlops-venv
+fraud-mlops/pipelines/kfp-compiler-venv
+fraud-mlops/pipelines/fraud_pipeline.yaml
+**/__pycache__

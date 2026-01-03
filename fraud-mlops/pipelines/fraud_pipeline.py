@@ -1,5 +1,5 @@
 from kfp import dsl
-from kfp.dsl import Artifact, Dataset, Model, Metrics, Output, Input
+from kfp.dsl import Artifact, Dataset, Model, Output, Input
 
 
 REGISTRY = "host.minikube.internal:5000"
